@@ -14,3 +14,15 @@ Iam currently learning machine learning and data analysis, and this project serv
 - Feature engineering
 
 - Model building and evaluation
+
+## Methods and Tools
+
+The following tools and techniques were used in this project:
+
+Programming Language: Python
+
+- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+- Algorithms: Random Forest, Logistic Regression, XGBoost
+
+- Optimization: Grid Search, Random Search, Bayesian Optimization
