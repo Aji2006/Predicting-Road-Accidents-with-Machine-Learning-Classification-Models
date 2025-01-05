@@ -26,5 +26,3 @@ Programming Language: Python
 - Algorithms: Random Forest, Logistic Regression, XGBoost
 
 - Optimization: Grid Search, Random Search, Bayesian Optimization
-
-Hopefull this project can help much people
